@@ -1,5 +1,4 @@
 #pragma once
-#include "..\src\pch.h"
 
 namespace l4d2
 {
